@@ -1,5 +1,5 @@
 ### Important_Interview_Questions
-This repository contains important DSA questions which can be asked in interview.
+This repository contains important DSA questions which can be asked in an interview. I have added questions according to my importance.
 
 ## __Array__ 🚀
 - [Kth minimum element in an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
@@ -16,5 +16,10 @@ This repository contains important DSA questions which can be asked in interview
 - [Buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [No. of ways to express the Sum of consecutive numbers](https://www.geeksforgeeks.org/count-ways-express-number-sum-consecutive-numbers/)
 
+## __Matrix__
+- [Sprial Traverse of matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
 
-feel free to 🍴 and 🌟 this repository.I Will be adding more questions to list! 
+
+
+
+feel free to 🍴 and 🌟 this repository.I Will be adding more questions to list!  
