@@ -1,5 +1,4 @@
 ### Important_Interview_Questions
-This repository contains important DSA questions which can be asked in an interview. I have added questions according to my importance.
 
 ## __Array__ 🚀
 - [Kth minimum element in an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
