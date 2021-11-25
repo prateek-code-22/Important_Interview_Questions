@@ -17,8 +17,31 @@
 
 ## __Matrix__
 - [Sprial Traverse of matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
+- [Search in 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Kth smallest in matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [Count negative number in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
 
+## __Bit Manipulation__
+- [Check whether kth bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Count Total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
+- [Single Number |](https://leetcode.com/problems/single-number/)
+- [Single Number ||](https://leetcode.com/problems/single-number-ii/)
+- [Single Number |||](https://leetcode.com/problems/single-number-iii/)
+- [Range of AND](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+- [No of steps to convert A to B](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
+## __Binary Search__
+- [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Find SQRT(x)](https://leetcode.com/problems/sqrtx/)
+- [Sum of Squares](https://leetcode.com/problems/sum-of-square-numbers/)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [Find minimum element in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [Find the Kth closest element](https://leetcode.com/problems/find-k-closest-elements/)
+- 
 
 feel free to 🍴 and 🌟 this repository.I Will be adding more questions to list!  
