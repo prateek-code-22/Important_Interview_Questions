@@ -42,6 +42,8 @@
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find minimum element in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Find the Kth closest element](https://leetcode.com/problems/find-k-closest-elements/)
-- 
+- [Subsets](https://leetcode.com/problems/subsets-ii/)
+
+
 
 feel free to 🍴 and 🌟 this repository.I Will be adding more questions to list!  
