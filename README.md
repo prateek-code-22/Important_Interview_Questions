@@ -29,7 +29,6 @@
 - [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1/?track=dsa-workshop-1-bit-magic&batchId=308)
 - [Count Total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
 - [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/?track=dsa-workshop-1-bit-magic&batchId=308)
-- [Single Number |](https://leetcode.com/problems/single-number/)
 - [Single Number ||](https://leetcode.com/problems/single-number-ii/)
 - [Single Number |||](https://leetcode.com/problems/single-number-iii/)
 - [Range of AND](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
