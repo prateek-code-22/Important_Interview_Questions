@@ -1,6 +1,6 @@
-### Important_Interview_Questions
+### Important_Interview_Questions 🚀
 
-## __Array__ 🚀
+## __Array__
 - [Kth minimum element in an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 - [Kadanes Algorithm (Max Sum of contiguous sub-array)](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 - [Sort array of 0's,1's,2's](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
@@ -33,6 +33,7 @@
 - [Single Number |||](https://leetcode.com/problems/single-number-iii/)
 - [Range of AND](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - [No of steps to convert A to B](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [Subsets](https://leetcode.com/problems/subsets-ii/)
 
 ## __Binary Search__
 - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -41,7 +42,20 @@
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find minimum element in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Find the Kth closest element](https://leetcode.com/problems/find-k-closest-elements/)
-- [Subsets](https://leetcode.com/problems/subsets-ii/)
+- [Book Allocation](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+- [Aggresive cows](https://www.spoj.com/problems/AGGRCOW/)
+
+
+## __Stack__
+- [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
+- [Smallest number on left](https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1)
+- [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+- [132 Pattern](https://leetcode.com/problems/132-pattern/)
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [Stock Span](https://leetcode.com/problems/online-stock-span/)
+- [Largest Rectangle Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 
 
 
